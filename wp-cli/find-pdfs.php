@@ -13,7 +13,7 @@ use WP_Query;
 /**
  * Export All PDFs link within the content
  *
- * @package MSCM\CLI
+ * @package PDFFinder\CLI
  */
 class FindPDFs {
 
