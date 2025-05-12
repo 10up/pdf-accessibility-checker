@@ -67,7 +67,7 @@ function findFileByName(directoryPath, searchString) {
         const $jsonFilePath = findFileByName(outputDirectory, testFileName);
         
         if ( fs.existsSync($jsonFilePath) ) {
-            throw new Error("File aleady exists in reports");
+            throw new Error("File already exists in reports");
         }
         
         readStream = fs.createReadStream(fileName);

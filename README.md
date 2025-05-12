@@ -2,7 +2,7 @@
 
 > Tools to perform PDF accessibility checks.
 
-[![Support Level](https://img.shields.io/badge/support-beta-blueviolet.svg)](#support-level) [![MIT License](https://img.shields.io/github/license/10up/PDF-accessibility-checker.svg)](https://github.com/10up/PDF-accessibility-checker/blob/develop/LICENSE.md) 
+[![Support Level](https://img.shields.io/badge/support-beta-blueviolet.svg)](#support-level) [![MIT License](https://img.shields.io/github/license/10up/PDF-accessibility-checker.svg)](https://github.com/10up/PDF-accessibility-checker/blob/develop/LICENSE.md)
 
 ## Tools included
 
