@@ -1,5 +1,5 @@
 /*
- * PDF accesibility checker using Adobe PDF Services SDK
+ * PDF accessibility checker using Adobe PDF Services SDK
  * This script performs accessibility check on a PDF file and saves the report to a JSON file.
  */
 
@@ -67,7 +67,7 @@ function findFileByName(directoryPath, searchString) {
         const $jsonFilePath = findFileByName(outputDirectory, testFileName);
         
         if ( fs.existsSync($jsonFilePath) ) {
-            throw new Error("File aleady exists in reports");
+            throw new Error("File already exists in reports");
         }
         
         readStream = fs.createReadStream(fileName);
